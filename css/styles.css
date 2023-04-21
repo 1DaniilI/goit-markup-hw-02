@@ -12,10 +12,11 @@
 	--color-white: #ffffff;
 	--color-dairy: #fcfcfc;
     --body-color: #fff;
+
 body{
-    font-family: 'Roboto', sans-serif;
-    color: #434455 var(--color-slite);
-    background-color: #FFFFFF var(--body-color);
+    font-family:"Roboto", sans-serif;
+    color: #434455;
+    background-color: var(--body-color);
 }
 
 h1,h2,h3,h4,h5,h6,p{
