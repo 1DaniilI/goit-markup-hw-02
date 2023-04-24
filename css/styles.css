@@ -12,12 +12,15 @@
 	--color-white: #ffffff;
 	--color-dairy: #fcfcfc;
     --body-color: #ffffff;
+}
     
 body {
-    font-family:"Roboto", sans-serif;
+    font-family: "Raleway", sans-serif;
     color: var(--color-slite);
     background-color: var(--body-color);
 }
+
+
 
 h1,h2,h3,h4,h5,h6,p{
     margin: 0;
@@ -56,6 +59,7 @@ img{
 font-weight: 800;
 font-size: 18px;
 line-height: calc(21/24);
+letter-spacing: 0.03em;
 
 color: var(--color-iris);
 
