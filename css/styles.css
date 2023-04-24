@@ -15,8 +15,8 @@
 }
     
 body {
-    font-family: "Raleway", sans-serif;
-    color: var(--color-slite);
+    font-family: "Raleway", sans-serif, "Roboto", sans-serif;
+    color: #434455;
     background-color: var(--body-color);
 }
 
