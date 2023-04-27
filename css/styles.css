@@ -82,12 +82,13 @@ font-size: 16px;
 line-height: calc(24/16);
 letter-spacing: 0.02em;
 
-color: var(--color-grey);
+color: #2e2f42;
 }
 
 .header-button{
+
 font-size: 16px;
-line-height: calc(24/16);
+line-height: 24px;
 letter-spacing: 0.04em;
 color: var(--body-color);
 background: var(--color-iris);
