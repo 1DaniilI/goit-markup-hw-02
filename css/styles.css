@@ -17,7 +17,7 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color:#ffffff;
+    background-color: var(--body-color);
 }
 
 
@@ -53,7 +53,7 @@ img{
 }
 
 .header{
-    background-color: #ffffff;
+    background-color: var(--color-white);
 
 }
 
@@ -70,7 +70,7 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #2e2f42;
+color: var(--color-grey);
 display: flex;
 align-items: center;
 }
@@ -82,7 +82,7 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #4d5ae5;
+color: var(--color-iris);
 display: flex;
 align-items: center;
 }
@@ -94,7 +94,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 
-color: #2e2f42;
+color: var(--color-navy-blue);
 padding: 24px 0;
 display: block;
 
