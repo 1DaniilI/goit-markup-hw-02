@@ -61,7 +61,9 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: var(--color-navy-blue);
+text-decoration:none;
 }
+
 
 .hero {
     background-color: var(--color-grey);
@@ -87,9 +89,9 @@ color: var(--body-color);
 	cursor: pointer;
 	}
 
-	.header-button:hover,
+.header-button:hover,
 .header-button:focus {
-  background-color: #404BBF;
+  background-color: var(--color-ocean);
   color: #fff;
 }
 	  
