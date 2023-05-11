@@ -56,17 +56,24 @@ letter-spacing: 0.02em;
 color: var(--color-navy-blue);
 }
 
-.header-button{
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0.04em;
-color: var(--body-color);
-background: var(--color-iris);
-}
-
 .hero {
     background-color: var(--color-grey);
+	font-size: 56px;
+	line-height: 1.07;
+	text-align: center;
+	letter-spacing: 0.02em;
+color: var(--body-color);
 }
+.header-button{
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 1.5px;
+	letter-spacing: 0.04em;
+	color: var(--body-color);
+	background: var(--color-iris);
+	
+	}
+
 .footer-logo{
 	font-family: "Raleway", sans-serif;
 	font-weight: 800;
