@@ -24,15 +24,9 @@ body {
     background-color: var(--body-color);
 }
 
-
-
-
 .header{
     background-color: var(--color-white);
-
 }
-
-
 
 .header-logo{
 font-family: "Raleway", sans-serif;
@@ -42,7 +36,6 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: var(--color-grey);
-
 }
 
 .header-logo span{ 
@@ -53,9 +46,7 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: var(--color-iris);
-
 }
-
 
 .nav-link{
 font-weight: 500;
@@ -63,23 +54,19 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: var(--color-navy-blue);
-
 }
 
 .header-button{
-
 font-size: 16px;
 line-height: 24px;
 letter-spacing: 0.04em;
 color: var(--body-color);
 background: var(--color-iris);
-
 }
 
 .hero {
     background-color: var(--color-grey);
 }
-
 .footer-logo{
 	font-family: "Raleway", sans-serif;
 	font-weight: 800;
@@ -88,9 +75,7 @@ background: var(--color-iris);
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
 	color: var(--color-grey);
-	
 	}
-	
 	.footer-logo span{ 
 	font-family: 'Raleway';
 	font-weight: 800;
@@ -99,8 +84,8 @@ background: var(--color-iris);
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
 	color: var(--color-iris);
-	
 	}
+
 .footer{
 	background-color:#2e2f42;
 }
