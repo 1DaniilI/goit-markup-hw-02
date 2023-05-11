@@ -36,6 +36,7 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: var(--color-grey);
+text-decoration: none;
 }
 
 .header-logo span{ 
@@ -94,6 +95,13 @@ color: var(--body-color);
 	color: var(--color-navy-blue);
 }
 
+.items-header{
+	font-size: 36px;
+	line-height: 1.11;
+	text-align: center;
+	text-transform: capitalize;
+	color: var(--color-grey);
+}
 .footer-logo{
 	font-family: "Raleway", sans-serif;
 	font-weight: 800;
@@ -103,6 +111,24 @@ color: var(--body-color);
 	text-transform: uppercase;
 	color: var(--color-grey);
 	}
+
+.section-team{
+	background-color: var(--color-cloud);
+}
+.item-header{
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: var(--color-navy-blue);
+}
+.crew-list{
+	background-color: #ffffff;
+}
+
+
+
 	.footer-logo span{ 
 	font-family: 'Raleway';
 	font-weight: 800;
