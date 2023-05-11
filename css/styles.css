@@ -56,14 +56,20 @@ color: var(--color-grey);
 	list-style: none;
 }
 .nav-link{
+font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: var(--color-navy-blue);
+color: var(--color-slate);
 text-decoration:none;
 }
 
+.nav-link:hover,
+.nav-link:focus {
+	color: var(--color-ocean);
+
+}
 
 .hero {
     background-color: var(--color-grey);
