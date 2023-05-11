@@ -101,19 +101,11 @@ color: var(--body-color);
 	text-align: center;
 	text-transform: capitalize;
 	color: var(--color-grey);
-}
-.footer-logo{
-	font-family: "Raleway", sans-serif;
-	font-weight: 800;
-	font-size: 18px;
-	line-height: 1.17;
-	letter-spacing: 0.03em;
-	text-transform: uppercase;
-	color: var(--color-grey);
-	}
-
-.section-team{
 	background-color: var(--color-cloud);
+}
+
+.crew-list{
+	
 }
 .item-header{
 font-size: 36px;
@@ -127,12 +119,24 @@ background-color: #ffffff;
 .crew-name{
 font-weight: 500;
 font-size: 20px;
-line-height: 1.2px;
+line-height: 1.2;
 letter-spacing: 0.02em;
 color: var(--color-navy-blue);
 }
 
 
+
+
+
+.footer-logo{
+	font-family: "Raleway", sans-serif;
+	font-weight: 800;
+	font-size: 18px;
+	line-height: 1.17;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: var(--color-grey);
+	}
 
 	.footer-logo span{ 
 	font-family: 'Raleway';
