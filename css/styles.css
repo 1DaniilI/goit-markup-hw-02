@@ -71,22 +71,19 @@ color: var(--color-navy-blue);
 text-decoration:none;
 }
 
-.address-items{
+.address-item{
 	font-style: normal;
 }
 
-.address-link{
-font-style: normal;
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0.02em;
-color: #434455;
+ 
+.address-link:hover,
+.address-link:focus {
+color: var(--color-ocean);
 }
 
 .nav-link:hover,
 .nav-link:focus {
-	color: var(--color-ocean);
-
+color: var(--color-ocean);
 }
 
 .hero {
@@ -119,6 +116,14 @@ color: var(--body-color);
   background-color: var(--color-ocean);
   color: var(--body-color);
 }
+
+.address-link{
+	font-style: normal;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 0.02em;
+	color: #434455;
+	}
 	  
 .feature-header{
 	font-weight: 500;
@@ -211,6 +216,8 @@ background-color: #FFFFFF;
 .footer-logo span{
 	color: #f4f4fd;
 }
+
+
 
 
 
