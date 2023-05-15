@@ -71,6 +71,18 @@ color: var(--color-navy-blue);
 text-decoration:none;
 }
 
+.address-items{
+	font-style: normal;
+}
+
+.address-link{
+font-style: normal;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
 .nav-link:hover,
 .nav-link:focus {
 	color: var(--color-ocean);
