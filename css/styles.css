@@ -24,7 +24,13 @@ body {
     background-color: var(--body-color);
 }
 
+.list {
+	list-style: none;
+}
 
+.link {
+	text-decoration: none;
+}
 
 .header{
     background-color: var(--color-white);
@@ -61,7 +67,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: var(--color-slate);
+color: var(--color-navy-blue);
 text-decoration:none;
 }
 
@@ -73,6 +79,7 @@ text-decoration:none;
 
 .hero {
     background-color: var(--color-grey);
+	font-style: normal;
 	font-size: 56px;
 	line-height: 1.07;
 	text-align: center;
@@ -154,9 +161,6 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 color: var(--color-navy-blue);
 }
-
-
-
 
 
 .footer-logo{
