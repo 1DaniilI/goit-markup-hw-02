@@ -71,8 +71,9 @@ color: var(--color-navy-blue);
 text-decoration:none;
 }
 
-.address-link{
+.address{
 	font-style: normal;
+	letter-spacing: 0.02;
 }
 
  
