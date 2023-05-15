@@ -214,6 +214,11 @@ background-color: #FFFFFF;
 		cursor: pointer;
 	}
 
+
+.list{
+	list-style: none;
+}
+
 	.button-clasik:hover,
 	.button-clasik:focus {
 	  background-color: var(--color-ocean);
