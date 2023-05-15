@@ -125,7 +125,7 @@ text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2E2F42;
-background-color: var(--body-color);
+background-color: var(--color-cloud);
 }
 
 
@@ -146,6 +146,7 @@ background-color: var(--body-color);
 }
 
 .crew-list{
+	background-color: #FFFFFF;
 }
 
 .item-header{
