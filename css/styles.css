@@ -71,7 +71,7 @@ color: var(--color-navy-blue);
 text-decoration:none;
 }
 
-.address-item{
+.address-link{
 	font-style: normal;
 }
 
@@ -145,6 +145,15 @@ color: #2E2F42;
 background-color: var(--color-cloud);
 }
 
+
+.section-team{
+	background-color: #F4F4FD;
+}
+
+
+.crew-item{
+	background-color: #FFFFFF;
+}
 
 .servises-name{
 	font-weight: 500;
