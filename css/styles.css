@@ -121,6 +121,7 @@ color: var(--body-color);
 	line-height: 1.11;
 	text-align: center;
 	text-transform: capitalize;
+	font-style: normal;
 	color: var(--color-grey);
 	background-color: var(--color-cloud);
 }
@@ -131,7 +132,7 @@ color: var(--body-color);
 	font-size: 20px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
-	color: var(--color-grey);
+	color: var(--color-slate);
 }
 
 .portfolio-desk{
