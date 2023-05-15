@@ -268,9 +268,8 @@ background-color: #FFFFFF;
 	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
-	letter-spacing: 0.02em;
 	color: var(--color-navy-blue);
-	letter-spacing: 0.2em;
+	letter-spacing: 0.2;
 
 }
 .portfolio-desk{
