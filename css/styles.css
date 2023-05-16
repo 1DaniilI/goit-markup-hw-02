@@ -70,6 +70,7 @@ text-decoration:none;
 }
 
 .address{
+	font-style: normal;
 	letter-spacing: 0.02;
 }
 
@@ -86,6 +87,7 @@ color: var(--color-ocean);
 
 .hero {
     background-color: var(--color-grey);
+	font-style: normal;
 	font-size: 56px;
 	line-height: 1.07;
 	text-align: center;
@@ -130,7 +132,6 @@ color: var(--body-color);
 }
 
 .items-header{
-font-style: normal;
 font-size: 36px;
 line-height: 1.11;
 text-align: center;
@@ -237,7 +238,6 @@ background-color: #FFFFFF;
 		font-size: 16px;
 		line-height: 1.5;
 		letter-spacing: 0.04em;
-		font-style: normal;
 		color: var(--color-iris);
 		background-color: var(--color-cloud);
 		cursor: pointer;
@@ -274,7 +274,6 @@ background-color: #FFFFFF;
 }
 .portfolio-desk{
 	font-family: "Roboto", sans-serif;
-	font-style: normal;
 	font-size: 16px;
 	line-height: 24px;
 	letter-spacing: 0.02em;
